@@ -1,10 +1,4 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/31l6ynm0a1fhr2vs/branch/master?svg=true)](https://ci.appveyor.com/project/mrpond/blockthespot/branch/master)
-
-<center>
-    <h1 align="center">#àÂÒÇª¹»Å´áÍ¡ #Thailand #ThaiProtest #ThailandProtest #freeYOUTH</h1>
-    <h1 align="center">Please retweet these hashtag, help me stop dictator government!</h1>
-</center>
-
 <center>
     <h1 align="center">BlockTheSpot</h1>
     <h4 align="center">A multi-purpose adblocker and skip bypass for the <strong>Windows</strong> Spotify Desktop Application.</h4>
@@ -28,16 +22,17 @@
 :warning: This mod is for the [**Desktop Application**](https://www.spotify.com/download/windows/) of Spotify on Windows, **not the Microsoft Store version**.
 
 #### Installation/Update:
-* Just run BlockTheSpot.bat
-or
+
+#### Easy Installation:
+Just run BlockTheSpot.bat. You don't need to download any other file.
+
+#### Manual Installation:
 1. Browse to Spotify installation folder `%APPDATA%\Spotify`
 2. Download chrome_elf.zip from [releases](https://github.com/mrpond/BlockTheSpot/releases)
 3. Replace chrome_elf.dll, config.ini from chrome_elf.zip to that folder. 
 
 #### Uninstall:
-* Just run uninstall.bat
-or
-* reinstall spotify
+Just run uninstall.bat or reinstall spotify
 
 #### Note:
 * "chrome_elf.dll" gets replaced by Spotify Installer each time it updates, make sure to replace it again.
