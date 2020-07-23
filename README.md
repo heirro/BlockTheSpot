@@ -24,7 +24,7 @@
 #### Installation/Update:
 
 #### Easy Installation:
-Just run BlockTheSpot.bat. You don't need to download any other file.
+Just run BlockTheSpot.bat use "Run as administrator". You don't need to download any other file.
 
 #### Manual Installation:
 1. Browse to Spotify installation folder `%APPDATA%\Spotify`
